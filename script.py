@@ -23,7 +23,7 @@ print('Selected item: ' + selected_menu.name)
 count= int (input ('Enter quantity (10% off for 3 or more): '))
 
 # Call the get_total_price method
-result =selected_menu.get_total_price(count4)
+result =selected_menu.get_total_price(count)
 
 # Output 'Your total is $____'
 print('Your total is $'+ str(result))
