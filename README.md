@@ -1,3 +1,3 @@
-# food-ordering-app
+# food-ordering
 
-Hands on project during learning python
+Hands on basic project during learning python
