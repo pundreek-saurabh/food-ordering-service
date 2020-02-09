@@ -16,3 +16,15 @@ for menu_item in menu_items:
     
     
     index=index+1
+    
+print('--------------------')
+
+
+order= int(input('Enter menu item number: '))
+
+
+selected_menu=menu_items[order]
+
+
+print('Selected item: '+ selected_menu.name)
+    
